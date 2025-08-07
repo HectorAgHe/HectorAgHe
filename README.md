@@ -12,4 +12,5 @@ Soy un Desarrollador y Gestor de Software, apasionado por la tecnología y la in
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 Curriculúm Vitae
-[Aguilar_Hernandez_Hector_CV.pdf](https://github.com/user-attachments/files/18084817/Aguilar_Hernandez_Hector_CV.pdf)
+[Hector_Aguilar_Hernandez_CV.pdf](https://github.com/user-attachments/files/21671169/Hector_Aguilar_Hernandez_CV.pdf)
+
